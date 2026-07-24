@@ -36,6 +36,7 @@
 | [**UML Diagram Generator**](https://github.com/z0zero/uml-diagram-generator) | Turns natural-language prompts into six types of interactive UML diagrams. | `Gemini` `React 19` `TypeScript` `React Flow` |
 | [**Job Scam Detection**](https://github.com/z0zero/job-scam-BERT-ALBERT-RoBERTa) | Compares BERT, ALBERT, and RoBERTa on 17,880 job listings and serves the selected model through Streamlit. | `Python` `Transformers` `NLP` `Streamlit` |
 | [**NeetCode Subtitle Translator**](https://github.com/z0zero/NeetCode-Subtitle-Translator) | Translates English subtitles to Indonesian with batch pre-translation, smart caching, and API fallback. | `Chrome Extension` `JavaScript` `Google Translate` `DeepL` |
+| [**Local PDF to Image Converter**](https://github.com/z0zero/pdf-converter) | Converts PDF pages to JPG or PNG locally with batch processing, page ranges, and ZIP downloads. | `Python` `FastAPI` `PyMuPDF` `JavaScript` |
 
 ## Core toolkit
 
