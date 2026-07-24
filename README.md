@@ -51,16 +51,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## GitHub activity
+## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/z0zero">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=z0zero&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Brian's GitHub profile statistics" />
-  </a>
-  <a href="https://github.com/z0zero">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=z0zero&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages in Brian's public repositories" />
-  </a>
-</p>
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=z0zero&hide_border=true)
 
 <p align="center"><em>Fueled by curiosity, shipped with coffee ☕</em></p>
 
