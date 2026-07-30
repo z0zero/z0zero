@@ -33,6 +33,7 @@
 
 | Project | What it demonstrates | Built with |
 | --- | --- | --- |
+| [**DiffScope**](https://github.com/z0zero/DiffScope) | Turns public GitHub pull requests or pasted diffs into deterministic impact, risk, and test reports. | `Next.js 16` `TypeScript` `React 19` `Zod` |
 | [**UML Diagram Generator**](https://github.com/z0zero/uml-diagram-generator) | Turns natural-language prompts into six types of interactive UML diagrams. | `Gemini` `React 19` `TypeScript` `React Flow` |
 | [**Job Scam Detection**](https://github.com/z0zero/job-scam-BERT-ALBERT-RoBERTa) | Compares BERT, ALBERT, and RoBERTa on 17,880 job listings and serves the selected model through Streamlit. | `Python` `Transformers` `NLP` `Streamlit` |
 | [**NeetCode Subtitle Translator**](https://github.com/z0zero/NeetCode-Subtitle-Translator) | Translates English subtitles to Indonesian with batch pre-translation, smart caching, and API fallback. | `Chrome Extension` `JavaScript` `Google Translate` `DeepL` |
