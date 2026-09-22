@@ -26,8 +26,17 @@
 ## What I'm focused on
 
 - 🧠 **Applied AI** — NLP, Transformer evaluation, and useful model-driven workflows.
-- ⚙️ **AI Systems** — Reliable APIs, tooling, guardrails, and product integration.
+- ⚙️ **AI Systems** — Reliable APIs, agent tooling, session state, provider routing, and product integration.
 - ✨ **Product Delivery** — Moving from a working prototype to a clear, usable web experience.
+
+## Open Source
+
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+Contributing around **ACP, sessions, and model/provider plumbing**, with a focus on state correctness and provider routing.
+
+- Contributed the direction behind [#72579](https://github.com/NousResearch/hermes-agent/pull/72579), later salvaged upstream in [#115810](https://github.com/NousResearch/hermes-agent/pull/115810) with commit credit.
+- Reviewed and reproduced session/provider restoration edge cases in [#117819](https://github.com/NousResearch/hermes-agent/pull/117819), including follow-up verification after the author revised the fix.
 
 ## Selected work
 
