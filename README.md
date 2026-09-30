@@ -3,10 +3,8 @@
 <h3 align="center">Software Engineer building AI-powered products</h3>
 
 <p align="center">
-  I turn machine-learning ideas into useful products—combining
-  <strong>Python</strong> for AI and backend systems with
-  <strong>TypeScript</strong> and <strong>Next.js</strong> for thoughtful web
-  experiences.
+  I build AI-powered software with <strong>Python</strong>, <strong>TypeScript</strong>, and <strong>Next.js</strong>,
+  with a growing focus on AI agents, backend systems, and open-source development.
 </p>
 
 <p align="center">
@@ -23,30 +21,15 @@
   </a>
 </p>
 
-## What I'm focused on
-
-- 🧠 **Applied AI** — NLP, Transformer evaluation, and useful model-driven workflows.
-- ⚙️ **AI Systems** — Reliable APIs, agent tooling, session state, provider routing, and product integration.
-- ✨ **Product Delivery** — Moving from a working prototype to a clear, usable web experience.
-
-## Open Source
+## Currently contributing to open source
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
-Contributing around **ACP, sessions, and model/provider plumbing**, with a focus on state correctness and provider routing.
+I'm currently contributing to **Hermes Agent**, an open-source AI agent project by Nous Research.
 
-- Contributed the direction behind [#72579](https://github.com/NousResearch/hermes-agent/pull/72579), later salvaged upstream in [#115810](https://github.com/NousResearch/hermes-agent/pull/115810) with commit credit.
-- Reviewed and reproduced session/provider restoration edge cases in [#117819](https://github.com/NousResearch/hermes-agent/pull/117819), including follow-up verification after the author revised the fix.
+My work is focused around **ACP, session state, model/provider routing, and runtime correctness**. This includes investigating provider restoration edge cases, reproducing regressions, reviewing upstream fixes, and contributing changes that have been incorporated into the project.
 
-## Selected work
-
-| Project | What it demonstrates | Built with |
-| --- | --- | --- |
-| [**DiffScope**](https://github.com/z0zero/DiffScope) | Turns public GitHub pull requests or pasted diffs into deterministic impact, risk, and test reports. | `Next.js 16` `TypeScript` `React 19` `Zod` |
-| [**UML Diagram Generator**](https://github.com/z0zero/uml-diagram-generator) | Turns natural-language prompts into six types of interactive UML diagrams. | `Gemini` `React 19` `TypeScript` `React Flow` |
-| [**Job Scam Detection**](https://github.com/z0zero/job-scam-BERT-ALBERT-RoBERTa) | Compares BERT, ALBERT, and RoBERTa on 17,880 job listings and serves the selected model through Streamlit. | `Python` `Transformers` `NLP` `Streamlit` |
-| [**NeetCode Subtitle Translator**](https://github.com/z0zero/NeetCode-Subtitle-Translator) | Translates English subtitles to Indonesian with batch pre-translation, smart caching, and API fallback. | `Chrome Extension` `JavaScript` `Google Translate` `DeepL` |
-| [**Local PDF to Image Converter**](https://github.com/z0zero/pdf-converter) | Converts PDF pages to JPG or PNG locally with batch processing, page ranges, and ZIP downloads. | `Python` `FastAPI` `PyMuPDF` `JavaScript` |
+Relevant work: [#72579](https://github.com/NousResearch/hermes-agent/pull/72579) · [#115810](https://github.com/NousResearch/hermes-agent/pull/115810) · [#117819](https://github.com/NousResearch/hermes-agent/pull/117819)
 
 ## Core toolkit
 
@@ -57,7 +40,6 @@ Contributing around **ACP, sessions, and model/provider plumbing**, with a focus
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" alt="Hugging Face Transformers" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -66,7 +48,3 @@ Contributing around **ACP, sessions, and model/provider plumbing**, with a focus
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=z0zero&hide_border=true)
 
 <p align="center"><em>Fueled by curiosity, shipped with coffee ☕</em></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/z0zero/z0zero/output/snake.svg" alt="Brian's GitHub contribution graph animation" />
-</p>
